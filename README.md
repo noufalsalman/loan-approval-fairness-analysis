@@ -62,6 +62,7 @@ Python, scikit-learn, pandas, matplotlib/seaborn
 
 - `notebook/` — loan_approval_fairness_analysis.ipynb
 - `report/` — loan-approval-fairness-analysis-report.pdf
+- `presentation/` — loan-approval-fairness-analysis-slides.pdf
 - `data/` — loan_data.csv
 - `README.md`
 
